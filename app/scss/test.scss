@@ -1,0 +1,16 @@
+$nav-color:#F90;
+$width : 100%;
+$height : 100%;
+body{
+background-color: blue; 
+}
+nav{
+	
+	width:$width;
+
+	color:$nav-color;
+}
+
+#find{
+	height: $width;
+}
